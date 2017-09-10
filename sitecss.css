@@ -32,3 +32,6 @@
   border-radius: 50%;
   background: #ffffff;
 }
+.navbar-nav .nav-item{
+  margin: auto 20px;
+}
